@@ -4,10 +4,9 @@ API REST backend pour la gestion d'articles de blog.
 Développée avec Node.js, Express et SQLite.
 
 ## 👤 Auteur
-- **Nom :** Ton Nom
-- **Prénom :** Ton Prénom  
-- **Matricule :** Ton Matricule
-- **Filière :** Ta Filière
+- **Nom :** AVANN MBEBI EWANE 
+- **Matricule :** 24A2635
+- **Filière :** INFO L2
 - **UE :** INF222
 
 ## ⚙️ Installation
